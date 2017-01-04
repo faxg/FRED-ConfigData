@@ -1,0 +1,5 @@
+# FRED configuration
+---
+fred:
+  version: 1.0.0
+  
