@@ -3,3 +3,4 @@
 fred:
   version: 1.0.0
   platform: (standalone)
+  product: public-saas
