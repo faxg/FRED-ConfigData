@@ -1,0 +1,4 @@
+# FRED configuration
+---
+fred:
+  platform: Kubernetes
